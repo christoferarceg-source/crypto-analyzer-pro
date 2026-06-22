@@ -9,6 +9,8 @@ A powerful, real-time cryptocurrency analysis dashboard powered by Claude AI. Tr
 
 ![CryptoScan Pro Screenshot](https://via.placeholder.com/800x400/050810/00f5c4?text=CryptoScan+Pro)
 
+https://christoferarceg-source.github.io/crypto-analyzer-pro/
+
 ## ✨ Features
 
 ### 📈 **Real-Time Market Analysis**
